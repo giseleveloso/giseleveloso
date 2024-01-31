@@ -1,4 +1,16 @@
-### Hi there 👋
+### Olá! Eu sou a Gisele...
+
+- 🎓 Curso técnico em Informática para Internet pelo IFTO - Campus Palmas
+- 📖 Cursando Sistemas da Informação na UNITINS
+- 💬 Interessada em colaborar em novos projetos e me desenvolver na área da tecnologia
+
+##
+### Em desenvolvimento
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON"/></code>
 
 <!--
 **giseleveloso/giseleveloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
